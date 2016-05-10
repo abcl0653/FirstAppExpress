@@ -1,0 +1,13 @@
+{
+	"development" : {
+		"db_host" 		: "localhost",
+		"db_user" 		: "root",
+		"db_password" 	: "root" 
+	},
+
+	"production" : {
+		"db_host" 		: "192.168.33.33",
+		"db_user" 		: "admin",
+		"db_password" 	: "admin@" 
+	}
+}
